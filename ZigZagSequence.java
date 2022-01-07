@@ -18,6 +18,7 @@ public class ZigZagSequence {
             }
             findZigZagSequence(a, n);
         }
+        kb.close();
    }
    
     public static void findZigZagSequence(int [] a, int n){
